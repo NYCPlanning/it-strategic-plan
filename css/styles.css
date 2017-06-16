@@ -40,9 +40,9 @@
   border-color: #D96B27;
 }
 
-.btn-xl:hover {
-  background-color: #ff711a;
-  border-color: #ff711a;
+.btn-xl.active, .btn-xl:active, .btn-xl:focus, .btn-xl:hover, .open .dropdown-toggle.btn-xl {
+    background-color: #ff711a;
+    border-color: #ff711a;
 }
 
 .text-primary, a {
@@ -61,4 +61,19 @@
   width: 100%;
   display: inline-block;
   padding: 20px;
+}
+
+footer {
+  text-align: left;
+}
+
+.footer-logo {
+  background-image: url(https://capitalplanning.nyc.gov/img/logo_120.png);
+  background-repeat: no-repeat;
+  width: 66px;
+  height: 31px;
+  background-size: 66px;
+  float: left;
+  margin-right: 16px;
+  margin-top: 4px;
 }

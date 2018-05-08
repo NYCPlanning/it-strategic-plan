@@ -2,6 +2,7 @@
 # IT Strategic Plan 
 
 DCP Mission: To plan for the future of NYC
+
 IT Mission: To provide IT services in support of planning for NYC's future
 
 Vision: To be a world class IT service delivery organization centered on six core values:
